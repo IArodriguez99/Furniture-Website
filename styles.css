@@ -30,7 +30,7 @@ a:hover {
 }
 
 .title {
-  margin: 24px 88px;
+  margin: 24px 24px;
   color: #6b6161;
 }
 
@@ -48,7 +48,7 @@ a:hover {
 
 .menu li {
   padding: 20px;
-  margin: 0px 16px;
+  margin: 0px 24px;
   background-color: ;
   color: #6b6161;
   font-size: 20px;
